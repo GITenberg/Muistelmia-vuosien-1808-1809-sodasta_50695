@@ -1,10 +1,16 @@
 _repo: Muistelmia-vuosien-1808-1809-sodasta_50695
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Castrén, Kaarle Alfred
     gutenberg_agent_id: '46048'
     url: http://www.gutenberg.org/2009/agents/46048
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50695#Muistelmia-vuosien-1808-1809-sodasta
 gutenberg_issued: '2015-12-15'
 gutenberg_type: Text
 identifiers:
