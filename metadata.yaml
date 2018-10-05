@@ -19,5 +19,7 @@ language: fi
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: Muistelmia vuosien 1808-1809 sodasta
 url: http://www.gutenberg.org/ebooks/50695
